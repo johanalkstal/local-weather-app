@@ -22,7 +22,7 @@
   "git.enableSmartCommit": true,
   "npm.enableScriptExplorer": true,
   "typescript.tsdk": "node_modules/typescript/lib",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
   "auto-close-tag.SublimeText3Mode": true,
   "html.autoClosingTags": false,
   "gitlens.menus": {
